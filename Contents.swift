@@ -8,6 +8,7 @@ for i in revers {
         x += 1
         temp = 1
     }
+    //erasgh
     else if i == "I" && temp > 1{
         x -= 1
         temp = 1
