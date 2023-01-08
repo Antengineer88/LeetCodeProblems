@@ -8,7 +8,7 @@ for i in revers {
         x += 1
         temp = 1
     }
-    // Soem valueable comment
+    // Some valueable comment
     else if i == "I" && temp > 1{
         x -= 1
         temp = 1
